@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TO5_User add comment in board without word</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1daeb73-e9d3-4c19-a074-ae8a4e8b4df8</testCaseGuid>
+</TestCaseEntity>

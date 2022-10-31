@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TO1_User create new board list without name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07c49ca7-f148-44c1-a3ee-8f33be5536e0</testCaseGuid>
+</TestCaseEntity>

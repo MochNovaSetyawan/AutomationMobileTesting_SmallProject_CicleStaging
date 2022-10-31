@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TB3_User create blash without title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8b5f5bc-7580-4d80-9cd1-2d7220625b51</testCaseGuid>
+</TestCaseEntity>

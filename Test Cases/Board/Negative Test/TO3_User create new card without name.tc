@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TO3_User create new card without name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cab5b3cd-3117-4db8-83e3-2bdd95bd7f20</testCaseGuid>
+</TestCaseEntity>

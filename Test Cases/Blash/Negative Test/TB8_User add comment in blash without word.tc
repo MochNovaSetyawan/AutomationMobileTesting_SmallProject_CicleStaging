@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TB8_User add comment in blash without word</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e815f4a-2b86-4d44-be92-b70b6f2953bf</testCaseGuid>
+</TestCaseEntity>
